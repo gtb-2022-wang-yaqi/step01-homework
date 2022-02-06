@@ -6,12 +6,13 @@ Welcome to my paradise.
 
 If u can see the photo below, you would know who I really am.
 
-<img src="assets/me-2.jpg" alt="me-2" width="30%" />
+![me](https://user-images.githubusercontent.com/97376748/152674037-6ab8e516-3933-4534-a12d-827477cf905e.jpg)
+
 
 These are some photos I recently found, I wanna share with you.
 
-<img src="assets/fancy-photo-1.jpg" alt="fancy-photo-1" width="30%" />
+![fancy-photo-1](https://user-images.githubusercontent.com/97376748/152674044-24e45901-9d5a-4184-9dbc-9f657d337a52.jpg)
 
-<img src="assets/fancy-photo-2.jpg" alt="fancy-photo-2" width="30%" />
+![fancy-photo-2](https://user-images.githubusercontent.com/97376748/152674047-c679ab9f-4a37-4819-827a-7cfef86c95c4.jpg)
 
-<img src="assets/fancy-photo-3.jpg" alt="fancy-photo-3" width="30%" />
+![fancy-photo-3](https://user-images.githubusercontent.com/97376748/152674049-47309836-dce1-4d65-8ae0-0da22aa6bd83.png)
