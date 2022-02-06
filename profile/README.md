@@ -6,13 +6,13 @@ Welcome to my paradise.
 
 If u can see the photo below, you would know who I really am.
 
-![me](https://user-images.githubusercontent.com/97376748/152674037-6ab8e516-3933-4534-a12d-827477cf905e.jpg)
-
+<img src="https://user-images.githubusercontent.com/97376748/152674037-6ab8e516-3933-4534-a12d-827477cf905e.jpg" alt="me" width="30%" />
 
 These are some photos I recently found, I wanna share with you.
 
-![fancy-photo-1](https://user-images.githubusercontent.com/97376748/152674044-24e45901-9d5a-4184-9dbc-9f657d337a52.jpg)
+<img src="https://user-images.githubusercontent.com/97376748/152674308-798986d0-7859-4ff2-9324-94ef8c697870.jpg" alt="fancy-photo-1" width="50%" />
 
-![fancy-photo-2](https://user-images.githubusercontent.com/97376748/152674047-c679ab9f-4a37-4819-827a-7cfef86c95c4.jpg)
+<img src="https://user-images.githubusercontent.com/97376748/152674309-5830eb62-b3bc-4708-8fe2-8c35dca74f02.jpg" alt="fancy-photo-2" width="50%" />
 
-![fancy-photo-3](https://user-images.githubusercontent.com/97376748/152674049-47309836-dce1-4d65-8ae0-0da22aa6bd83.png)
+<img src="https://user-images.githubusercontent.com/97376748/152674049-47309836-dce1-4d65-8ae0-0da22aa6bd83.png" alt="fancy-photo-3" width="50%" />
+
